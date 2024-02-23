@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:26:21 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:08:49 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:05:22 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 
 /**
  * The ft_strchr() function locates the first occurrence of c

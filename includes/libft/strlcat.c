@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/03 11:12:49 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:26:32 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/10 15:08:59 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 
 /**
  *	- The ft_strlcat() function concatenate strings with the same input

@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:29:05 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:09:48 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:05:35 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 
 /*
 * The ft_strlcpy() function copies up to size - 1 characters from the

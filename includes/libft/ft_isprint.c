@@ -6,10 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 11:25:05 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:04:51 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:04:20 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
 /**
  *	The ft_isprint() function tests for any printing character,
  *	including space (‘ ’).  The value of the argument must be

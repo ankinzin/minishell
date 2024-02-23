@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:32:00 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:10:37 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:05:55 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 
 /**
  * The ft_strrchr() function is identical to ft_strchr(), except it

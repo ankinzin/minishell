@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:29:51 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:09:56 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/10 15:07:12 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,9 +26,7 @@ size_t	ft_strlen(const char *str)
 	size_t	i;
 
 	i = 0;
-	while (*(str + i) != '\0')
-	{
+	while (str && str[i])
 		i++;
-	}
 	return (i);
 }

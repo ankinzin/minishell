@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:32:57 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:10:45 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:05:57 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 
 /**
  * Allocates (with malloc(3)) and returns a copy of 's1' with the characters

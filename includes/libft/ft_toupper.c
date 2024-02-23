@@ -6,10 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:34:18 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:11:08 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:06:10 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
 /**
  * The toupper() function converts a lower-case letter to the corresponding
  * upper-case letter.  The argument must be representable as an

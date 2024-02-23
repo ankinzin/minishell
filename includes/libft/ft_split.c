@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:25:40 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:08:34 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:05:19 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 
 /**
  * Allocates (with malloc(3)) and returns an array of string obtained by

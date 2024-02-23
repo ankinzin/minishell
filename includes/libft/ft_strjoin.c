@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:27:52 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:09:23 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:05:30 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 
 /**
  *	Allocates (with malloc(3)) and returns a new string, which is the result

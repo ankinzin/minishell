@@ -6,10 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/19 12:21:33 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:03:44 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 11:53:41 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
 /**
  *	- The ft_isalpha() function tests for any character for which
  *	isupper(3) or islower(3) is true.  The value of the argument must be

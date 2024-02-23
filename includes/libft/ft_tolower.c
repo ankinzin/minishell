@@ -6,10 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:33:51 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:10:58 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:06:05 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
 /**
  * The tolower() function converts an upper-case letter to the corresponding
  * lower-case letter.

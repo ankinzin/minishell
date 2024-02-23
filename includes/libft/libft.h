@@ -6,15 +6,16 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/22 22:19:30 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:11:21 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:08:22 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
-# include<stdlib.h>
-# include<unistd.h>
+# include <stdlib.h>
+# include <unistd.h>
+# include <stdbool.h>
 
 // Mandatory  Part 1:
 int		ft_isalpha(int c);
@@ -68,5 +69,22 @@ void	ft_lstdelone(t_list *lst, void (*del)(void *));
 void	ft_lstclear(t_list **lst, void (*del)(void *));
 void	ft_lstiter(t_list *lst, void (*f)(void *));
 t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
+
+//For Minishell:
+bool	instr(char *str, int letter);
+bool	is_spaces(char c);
+bool	streq(char *str1, char *str2);
+bool	single_dollar(char *input_at_i);
+void	free_matrix(char **matrix);
+
+//------------GET_NEXT_LINE---------------/
+# ifndef BUFFER_SIZE
+#  define BUFFER_SIZE 42
+# endif
+# ifndef MAX_F_OPENED
+#  define MAX_F_OPENED 1024
+# endif
+
+char	*get_next_line(int fd);
 
 #endif

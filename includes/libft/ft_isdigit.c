@@ -6,10 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/19 12:25:25 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:04:20 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:04:16 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
 /**
  *	- The ft_isdigit() function tests for a decimal digit character.
  *	Regardless of locale, this includes the following characters only:

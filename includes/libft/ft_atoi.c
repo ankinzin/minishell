@@ -6,10 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/19 11:44:33 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:02:39 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 11:53:31 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
 /**
  *	The ft_atoi() function converts the initial portion of the string
  *	pointed to by ptr to int representation.

@@ -6,11 +6,11 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:04:19 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/03 11:06:52 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/07/05 12:04:54 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"libft.h"
+#include "libft.h"
 /**
  * The ft_memcmp() function compares byte string 
  * s1 against byte string s2.
